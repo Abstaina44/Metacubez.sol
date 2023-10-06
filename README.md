@@ -1,1 +1,1 @@
-Smart COntract Deployment on BSC Network
+Smart Contract Deployment on BSC Network
